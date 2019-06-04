@@ -110,7 +110,7 @@ header {
   display: -ms-flexbox;
   display: flex;
   background-image: url("../img/section-back.jpg");
-  background-repeat: no-repeat;
+  background-repeat: repeat-y;
   background-position-x: -300px;
 }
 
@@ -207,6 +207,9 @@ header {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  background-image: url("../img/section-back.jpg");
+  background-repeat: repeat-y;
+  background-position-x: 835px;
 }
 
 .container-3 {
